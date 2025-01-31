@@ -1,5 +1,5 @@
-# 💫 Hi there 👋 I am Harshil Kothiya
-🔭 I’m currently Studing in IT<br>👯 I’m looking to collaborate on ML, DL<br>🌱 I’m currently learning Deep Learning <br>💬 Ask me about ML, DL, NLP
+# 💫 Hi 👋 I am Harshil Kothiya
+🔭 I’m currently Studying in IT<br>👯 I’m looking to collaborate on ML, DL<br>🌱 I’m currently learning Deep Learning <br>💬 Ask me about ML, DL, NLP
 
 
 ## 🌐 Socials:
